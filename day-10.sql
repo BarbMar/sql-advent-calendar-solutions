@@ -5,8 +5,7 @@
 -- Question:
 -- In the holiday cookie factory, workers are measuring how efficient each oven is. Can you find the average baking time per oven rounded to one decimal place?
 --
--- In the holiday cookie factory, workers are measuring how efficient each oven is. Can you find the average baking time per oven rounded to one decimal place?
---
+
 
 -- Table Schema:
 -- Table: cookie_batches
