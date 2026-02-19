@@ -5,8 +5,7 @@
 -- Question:
 -- As the New Year begins, the goals tracker team wants to understand how user types differ. How many completed goals does the average user have in each user_type?
 --
--- As the New Year begins, the goals tracker team wants to understand how user types differ. How many completed goals does the average user have in each user_type?
---
+
 
 -- Table Schema:
 -- Table: user_goals
